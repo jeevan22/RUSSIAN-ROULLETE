@@ -1,0 +1,30 @@
+C:\Users\sunny\source\repos\Russian Roullete assiment\Russian Roullete assiment\obj\Debug\Russian Roullete assiment.csprojAssemblyReference.cache
+C:\Users\sunny\source\repos\Russian Roullete assiment\Russian Roullete assiment\obj\Debug\Russian_Roullete_assiment.Form1.resources
+C:\Users\sunny\source\repos\Russian Roullete assiment\Russian Roullete assiment\obj\Debug\Russian_Roullete_assiment.game.resources
+C:\Users\sunny\source\repos\Russian Roullete assiment\Russian Roullete assiment\obj\Debug\Russian_Roullete_assiment.Properties.Resources.resources
+C:\Users\sunny\source\repos\Russian Roullete assiment\Russian Roullete assiment\obj\Debug\Russian Roullete assiment.csproj.GenerateResource.cache
+C:\Users\sunny\source\repos\Russian Roullete assiment\Russian Roullete assiment\obj\Debug\Russian Roullete assiment.csproj.CoreCompileInputs.cache
+C:\Users\sunny\source\repos\Russian Roullete assiment\Russian Roullete assiment\bin\Debug\Russian Roullete assiment.exe.config
+C:\Users\sunny\source\repos\Russian Roullete assiment\Russian Roullete assiment\bin\Debug\Russian Roullete assiment.exe
+C:\Users\sunny\source\repos\Russian Roullete assiment\Russian Roullete assiment\bin\Debug\Russian Roullete assiment.pdb
+C:\Users\sunny\source\repos\Russian Roullete assiment\Russian Roullete assiment\obj\Debug\Russian Roullete assiment.exe
+C:\Users\sunny\source\repos\Russian Roullete assiment\Russian Roullete assiment\obj\Debug\Russian Roullete assiment.pdb
+C:\Users\sunny\source\repos\Russian Roullete assiment\Russian Roullete assiment\bin\Debug\nunit.framework.dll
+C:\Users\sunny\source\repos\Russian Roullete assiment\Russian Roullete assiment\bin\Debug\nunit.framework.pdb
+C:\Users\sunny\source\repos\Russian Roullete assiment\Russian Roullete assiment\bin\Debug\nunit.framework.xml
+C:\Users\sunny\source\repos\Russian Roullete assiment\Russian Roullete assiment\obj\Debug\Russian Roullete assiment.csproj.CopyComplete
+C:\Users\25lov\Desktop\Russian Roullete assiment\Russian Roullete assiment\bin\Debug\Russian Roullete assiment.exe.config
+C:\Users\25lov\Desktop\Russian Roullete assiment\Russian Roullete assiment\bin\Debug\Russian Roullete assiment.exe
+C:\Users\25lov\Desktop\Russian Roullete assiment\Russian Roullete assiment\bin\Debug\Russian Roullete assiment.pdb
+C:\Users\25lov\Desktop\Russian Roullete assiment\Russian Roullete assiment\bin\Debug\nunit.framework.dll
+C:\Users\25lov\Desktop\Russian Roullete assiment\Russian Roullete assiment\bin\Debug\nunit.framework.pdb
+C:\Users\25lov\Desktop\Russian Roullete assiment\Russian Roullete assiment\bin\Debug\nunit.framework.xml
+C:\Users\25lov\Desktop\Russian Roullete assiment\Russian Roullete assiment\obj\Debug\Russian Roullete assiment.csprojAssemblyReference.cache
+C:\Users\25lov\Desktop\Russian Roullete assiment\Russian Roullete assiment\obj\Debug\Russian_Roullete_assiment.Form1.resources
+C:\Users\25lov\Desktop\Russian Roullete assiment\Russian Roullete assiment\obj\Debug\Russian_Roullete_assiment.game.resources
+C:\Users\25lov\Desktop\Russian Roullete assiment\Russian Roullete assiment\obj\Debug\Russian_Roullete_assiment.Properties.Resources.resources
+C:\Users\25lov\Desktop\Russian Roullete assiment\Russian Roullete assiment\obj\Debug\Russian Roullete assiment.csproj.GenerateResource.cache
+C:\Users\25lov\Desktop\Russian Roullete assiment\Russian Roullete assiment\obj\Debug\Russian Roullete assiment.csproj.CoreCompileInputs.cache
+C:\Users\25lov\Desktop\Russian Roullete assiment\Russian Roullete assiment\obj\Debug\Russian Roullete assiment.csproj.CopyComplete
+C:\Users\25lov\Desktop\Russian Roullete assiment\Russian Roullete assiment\obj\Debug\Russian Roullete assiment.exe
+C:\Users\25lov\Desktop\Russian Roullete assiment\Russian Roullete assiment\obj\Debug\Russian Roullete assiment.pdb
